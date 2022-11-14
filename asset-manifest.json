@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Makaut-Marks-Calculation/static/css/main.e6067e85.css",
+    "main.js": "/Makaut-Marks-Calculation/static/js/main.97f9b194.js",
+    "index.html": "/Makaut-Marks-Calculation/index.html",
+    "main.e6067e85.css.map": "/Makaut-Marks-Calculation/static/css/main.e6067e85.css.map",
+    "main.97f9b194.js.map": "/Makaut-Marks-Calculation/static/js/main.97f9b194.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6067e85.css",
+    "static/js/main.97f9b194.js"
+  ]
+}

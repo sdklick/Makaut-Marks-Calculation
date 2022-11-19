@@ -53,8 +53,9 @@ const App = () => {
     let data1 = totaldata.value;
     let data2 = data1 - 0.75;
     let data3 = data2 * 10;
-    let data4 = `PERCENTAGE=${data3}%`;
-    setdata(data4);
+    let data4=Math.round(data3)
+    let data5 = `PERCENTAGE=${data4}%`;
+    setdata(data5);
   };
   const sem1 = () => {
     const totaldata = sem1sub.current.value;
